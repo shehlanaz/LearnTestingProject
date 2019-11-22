@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LearnJunitProject
+Bundle-SymbolicName: LearnTestingProject
+Bundle-Version: 1.0.0.qualifier
